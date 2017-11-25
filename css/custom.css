@@ -1,0 +1,59 @@
+.boxed-content {
+	padding: 13px 0px 30px 60px;
+	border: ridge;
+}
+
+.contactdiv {
+	padding: 28px 60px 0px 60px;
+}
+
+.page-heading {
+	background: #71e293;
+	padding: 10px 0px 10px 0px;
+}
+
+#navbarstudent {
+	padding: 23px 0px 0px 0px;
+    background: #a2eca1;
+}
+
+/* .blog-scroll{
+   
+    width: 100%;
+    display: inline-block;
+    background: #54ec8157;
+    padding: 24px 0px 24px 15px;
+    
+   } */
+.slider {
+	width: 91%;
+	margin: 100px auto;
+}
+
+.slick-slide {
+	margin: 0px 20px;
+}
+
+.slick-prev:before, .slick-next:before {
+	background: white;
+	padding: 5px 5px 5px 5px;
+	color: #060606;
+	font-size: small;
+}
+
+}
+.slick-slide {
+	transition: all ease-in-out .3s;
+}
+
+.border {
+	/*  padding: 26px 0px 0px 46px;
+        border-style: ridge; */
+	padding: 15px 0px 1px 65px;
+	border: ridge;
+}
+
+
+.submenu{
+	padding: 0px 0px 0px 25px;
+}
