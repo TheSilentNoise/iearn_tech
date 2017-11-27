@@ -9,8 +9,8 @@ app.config(function($routeProvider) {
         templateUrl : "sql.jsp",
         controller: "commonPage"
     })
-    .when("/link3", {
-        templateUrl : "page2.jsp"
+    .when("/de", {
+        templateUrl : "de.jsp"
     })
     .when("/blue", {
         templateUrl : "blue.htm"

@@ -12,6 +12,9 @@ body {
     font-size: 15px;
 	font-family: 'Open Sans', sans-serif;
     font-weight: 400;
+    background: #f9fafb url(background.png) !important;
+    background-position: 0 0 !important;
+    background-repeat: repeat !important;
 }
 ol, ul {
 	/* list-style: none; */
@@ -72,7 +75,7 @@ Navigation bar
 
 .navbar-nav .active a{
     background: none !important;
-    color: #5FCF80 !important;
+    color: #020202  !important;
     outline: none;
 }
 
@@ -112,7 +115,7 @@ Navigation bar
 Banner
 ************************************/
 .banner{
-	background: url('../img/bg-banner.jpg') no-repeat center top;
+	background: url('../img/home/bg-banner.jpg') no-repeat center top;
     background-size: cover;
 	min-height: 580px;
     position: relative;
@@ -323,14 +326,14 @@ p.det-p {
     padding: 40px 0px;
 }
 #pricing{
-    background: rgb(247, 247, 247);
+  /*   background: rgb(247, 247, 247); */
 }
 /***********************************
 Cta
 ************************************/
 #cta-2{
     padding: 20px 0px 35px 0px;
-    background: #f3f7f5;
+    
 }
 .cta-2-txt {
     font-size: 24px;
@@ -341,8 +344,8 @@ Cta
 }
 .cta-2-form input[type="email"] {
     border: 0px solid #CCC;
-    padding: 5px 40px;
-    font-size: 18px;
+    padding: 5px 72px;
+    font-size: 17px;
     color: #2b5d83;
     font-weight: 100;
     min-width: 280px;
@@ -353,7 +356,7 @@ Cta
     border-radius: 30px 0px 0px 30px;
 }
 .cta-2-form-submit-btn {
-    font-size: 18px;
+    font-size: 17px;
     text-transform: capitalize;
     color: #fff;
     background-color: #5fcf80;
@@ -421,7 +424,7 @@ Mentor Team
 Testimonial
 ************************************/
 #testimonial{
-    background-color: #111;
+    
 }
 .bg-white{
     background-color: #fff !important;
@@ -438,11 +441,11 @@ Testimonial
 Course
 ************************************/
 [class*=" imghvr-"] figcaption, [class^="imghvr-"] figcaption {
-    background-color: #5FCF80;
+    background-color: #000000;
     font-size: small;
 }
 [class*=" imghvr-"], [class^="imghvr-"] {
-    background-color: #5FCF80;
+    background-color: #000000;
     color: #fff;
 }
 /***********************************
@@ -656,7 +659,7 @@ Footer
     margin-bottom: 10px;
 }
 .btn {
-    padding: 10px 20px;
+    padding: 7px 16px;
 }
 .light-form-button{
     background: #5fcf80;

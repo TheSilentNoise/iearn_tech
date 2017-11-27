@@ -37,15 +37,9 @@
 		   							 <ul class="nav">
 		   							    
 		                    			<li class="active"><a href="#/"><i class="fa fa-user" aria-hidden="true"></i>	Profile</a></li><hr>
-		                                <li><a  id="btn-1" data-toggle="collapse" data-target="#submenu1" aria-expanded="false"><i class="fa fa-book" aria-hidden="true"></i>	Data Engineering Fundamentals</a>
+		                                <li><a  id="btn-1" data-toggle="collapse" data-target="#submenu1" aria-expanded="false"><i class="fa fa-book" aria-hidden="true"></i>My Courses	</a>
 		                                                <ul class="nav collapse submenu" id="submenu1" role="menu" aria-labelledby="btn-1">
-		                                                                <li><a href="#/sql"><i class="fa fa-book" aria-hidden="true"></i>	SQL</a></li>
-		                                                                <li><a href="xxnn.html"><i class="fa fa-book" aria-hidden="true"></i>	UNIX</a></li>
-		                                                                <li><a href="xxmkl.html"><i class="fa fa-book" aria-hidden="true"></i>	JAVA</a></li>
-		                                                                <li><a href="xxnn.html"><i class="fa fa-book" aria-hidden="true"></i>	Data Warehouse</a></li>
-		                                                                <li><a href="xxmkl.html"><i class="fa fa-book" aria-hidden="true"></i>	ETL - Talend</a></li>
-		                                                                <li><a href="xxnn.html"><i class="fa fa-book" aria-hidden="true"></i>	Hadoop</a></li>
-		                                                                
+		                                                                <li><a href="#/de" ><i class="fa fa-book" aria-hidden="true"></i>	Data Engineering Fundamentals</a></li>
 		                                                </ul>
 		                                </li><hr>
 		                                <li><a href="#/link3"><i class="fa fa-calendar" aria-hidden="true"></i>		Course Schedule </a></li><hr>

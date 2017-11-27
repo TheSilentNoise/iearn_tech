@@ -14,7 +14,8 @@
 
 #navbarstudent {
 	padding: 23px 0px 0px 0px;
-    background: #a2eca1;
+	background: #ffffff;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
 }
 
 /* .blog-scroll{
@@ -38,7 +39,7 @@
 	background: white;
 	padding: 5px 5px 5px 5px;
 	color: #060606;
-	font-size: small;
+	font-size: medium;
 }
 
 }
@@ -47,13 +48,67 @@
 }
 
 .border {
-	/*  padding: 26px 0px 0px 46px;
-        border-style: ridge; */
 	padding: 15px 0px 1px 65px;
-	border: ridge;
+	/* border: ridge; */
+	border-color: #494a4afc;
+	background: white;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
 }
 
+.border-ridge {
+	border: ridge;
+	background: #d8d8d2;
+}
 
-.submenu{
+.blog-border {
+	width: 100%;
+	display: inline-block;
+	/* border: ridge; */
+	border: 1px solid;
+	border-color: #dfe4e4;
+	/* color: azure; */
+	padding: 10px 7px 5px 19px;
+	box-shadow: 0 0 25px rgba(119, 117, 117, 0.83);
+	background: #fcfcfd;
+}
+
+.submenu {
 	padding: 0px 0px 0px 25px;
+}
+
+.header-border {
+	background: #77de95;
+	padding: 5px 0px 5px 0px;
+}
+
+.subject-div {
+	padding: 16px 32px 43px 51px;
+	border: 1px solid;
+	background: #eae8e8;
+	box-shadow: aqua;
+	color: #dad8d8;
+	box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+.sub-div-pad {
+	padding: 0px 13px 30px 13px;
+}
+
+.course-div {
+	background: white;
+    padding: 6px 6px 28px 6px;
+    /* color: #75a2a2; */
+    border-color: #111313;
+    box-shadow: 0 0 45px rgba(84, 76, 76, 0.34);
+}
+
+.blog-pad{
+	
+	padding : 0px 0px 17px 17px;
+}
+
+.blog-category{
+	background: white;
+    box-shadow: 0 0 28px rgba(0, 0, 0, 0.1);
+    padding: 0px 0px 7px 20px;
 }

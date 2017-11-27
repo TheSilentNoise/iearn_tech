@@ -2,7 +2,7 @@
 	 
 		      <div class="col-sm-12">
 		      
-		       				<div class="col-sm-6 post-snippet masonry-item">
+		       				<div class="col-sm-4 post-snippet masonry-item">
                                 <div class="inner">
                                        <a href="CollectionCheatsheet.jsp"> <h4>Java Collection Framework Cheat Sheet</h4>
                                         <span class="inline-block mb16">November 12, 2017</span></a>
@@ -15,7 +15,7 @@
                                 </div>
                               </div>
 		      
-		                     <div class="col-sm-6 post-snippet masonry-item">
+		                     <div class="col-sm-4 post-snippet masonry-item">
                                 <div class="inner">
                                        <a href="apache-common-chain.jsp"> <h4>Use of Apache Common Chains</h4>
                                         <span class="inline-block mb16">November 12, 2017</span></a>
@@ -28,7 +28,7 @@
                                 </div>
                               </div>
 		      
-						        <div class="col-sm-6 post-snippet masonry-item">
+						        <div class="col-sm-4 post-snippet masonry-item">
                                 <div class="inner">
                                 	<a href="NoSqlConcepts.jsp"><h4>Few Concepts on NoSql </h4>
                                         <span class="inline-block mb16">November 11, 2017</span>
@@ -41,15 +41,6 @@
                                  <br/><br/>
                                 </div>
                               </div>
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                             
-                              
                               
                               
 				</div>

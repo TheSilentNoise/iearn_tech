@@ -11,18 +11,21 @@
         </div>
         <div class="collapse navbar-collapse" id="myNavbar">
         <ul class="nav navbar-nav navbar-right">
-          <li><a href="home.jsp">Home</a></li>
+          <li><a href="index.jsp">Home</a></li>
           <li><a href="course.jsp">Courses</a></li>
-           <li><a href="blog.jsp">Blog</a></li>
-         <!--  <li class="dropdown">
-						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Blogs <b class="caret"></b></a>
+          <li><a href="all-blog.jsp">Blogs</a></li>
+          <!--  <li class="dropdown">
+						<a  class="dropdown-toggle" data-toggle="dropdown">Blogs <b class="caret"></b></a>
 						<ul class="dropdown-menu">
+							<li><a href="blog.jsp">All Blogs</a></li>
 							<li><a href="sql.html">SQL</a></li>
 							<li><a href="#">UNIX</a></li>
 							<li><a href="java.jsp">JAVA</a></li>
 							<li><a href="hadoop.html">Big Data & Hadoop</a></li>
 							<li><a href="#">Data Warehouse</a></li>
 							<li><a href="#">Talend</a></li>
+							<li><a href="#">Machine Learning</a></li>
+							<li><a href="#">Python</a></li>
 						</ul>
 		  </li> -->
 		  <li><a href="contact.jsp">Contact</a></li>
