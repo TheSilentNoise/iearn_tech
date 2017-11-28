@@ -19,7 +19,7 @@
     
   </head>
   <body>
-  <iframe width="350" height="430" src="https://console.dialogflow.com/api-client/demo/embedded/09e9e86b-d7bc-41ee-99f1-acddf9e2f177"></iframe>
+  
 	 <div>
 		<%@include file="header.jsp" %>
 	 </div>
@@ -145,6 +145,6 @@
     <script src="js/custom.js"></script>
 	<script src="js/jquery.isotope.min.js"></script>
 	<script src="js/jquery.fancybox.pack.js" type="text/javascript"></script>
-
+<iframe width="350" height="430" src="https://console.dialogflow.com/api-client/demo/embedded/09e9e86b-d7bc-41ee-99f1-acddf9e2f177"></iframe>
 </body>
 </html>
