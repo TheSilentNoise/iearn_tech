@@ -37,14 +37,17 @@
 		   							 <ul class="nav">
 		   							    
 		                    			<li class="active"><a href="#/"><i class="fa fa-user" aria-hidden="true"></i>	Profile</a></li><hr>
-		                                <li><a  id="btn-1" data-toggle="collapse" data-target="#submenu1" aria-expanded="false"><i class="fa fa-book" aria-hidden="true"></i>My Courses	</a>
+		                                <li>
+		                                		<a  id="btn-1" data-toggle="collapse" data-target="#submenu1" aria-expanded="false"><i class="fa fa-graduation-cap" aria-hidden="true"></i>My Courses	</a>
 		                                                <ul class="nav collapse submenu" id="submenu1" role="menu" aria-labelledby="btn-1">
-		                                                                <li><a href="#/de" ><i class="fa fa-book" aria-hidden="true"></i>	Data Engineering Fundamentals</a></li>
+		                                                                <li><a data-toggle="collapse" data-target="#submenu2" aria-expanded="false" ></i>1.	Data Engineering Fundamentals</a>
+					                                                              <ul class="nav collapse submenu" id="submenu2" role="menu" aria-labelledby="btn-1">
+					                                                                <li><a href="#/de" ><i class="fa fa-book" aria-hidden="true"></i>Study Materials</a></li>
+					                                                                <li><a href="#" ><i class="fa fa-calendar" aria-hidden="true"></i>Course Schedule</a></li>
+					                                                              </ul>
+		                                                                </li>
 		                                                </ul>
 		                                </li><hr>
-		                                <li><a href="#/link3"><i class="fa fa-calendar" aria-hidden="true"></i>		Course Schedule </a></li><hr>
-		                                <li><a href="#">Link 4</a></li><hr>
-		                                 <li><a href="#">Link 5</a></li><hr>
 		                            </ul>
 		                       </nav>
 			        </div>
@@ -67,8 +70,7 @@
     <script src="js/bootstrap.min.js"></script>
     <script src="js/angular.min.js" ></script>
      <script src="js/angular-route.min.js" ></script>
-    <script src =  "http://ajax.googleapis.com/ajax/libs/angularjs/1.0.3/angular-sanitize.js"></script>
-    <script src="js/custom.js"></script>
+    <script src =  "js/angular-sanitize.js"></script>
      <script src="js/student.js"></script>
     
     
