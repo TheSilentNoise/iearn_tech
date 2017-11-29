@@ -9,7 +9,7 @@
 <div class="col-sm-3 sub-div-pad">
 	<div class=" subject-div">
 	<h5 class="black">JAVA</h5>
-	<a href="">Read &rarr;</a>
+	<a href="#/java">Read &rarr;</a>
 	</div>
 </div>
 

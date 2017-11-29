@@ -12,8 +12,8 @@ app.config(function($routeProvider) {
     .when("/de", {
         templateUrl : "de.jsp"
     })
-    .when("/blue", {
-        templateUrl : "blue.htm"
+    .when("/java", {
+        templateUrl : "java.jsp"
     });
 });
 

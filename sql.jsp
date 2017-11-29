@@ -17,7 +17,7 @@
 
 		</div>
 
-	   <div class="col-sm-3">
+	   <div class="col-sm-3 index">
 	   <div class="text-center"><label>Index</label></div><hr/>
 			<nav class="nav-sidebar">
 				<ul class="nav tabs">

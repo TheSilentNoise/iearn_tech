@@ -48,10 +48,10 @@
 						 		<div class="boxed-content">
 						 			<h2 class="section-title"><i class="fa fa-globe"></i>&nbsp;&nbsp;Social Media</h2>
 						 			<div class="social-links">
-									<a href="#"><i class="fa fa-facebook"></i></a>&nbsp;&nbsp;
-									<a href="#"><i class="fa fa-linkedin fa-fw"></i></a>&nbsp;&nbsp;
-									<a href="#"><i class="fa fa-google-plus"></i></a>&nbsp;&nbsp;
-									<a href="#"><i class="fa fa-twitter"></i></a>
+									<a href="#"><img src="img/icon/linkedin.png" ></a>&nbsp;&nbsp;
+									<a href="#"><img src="img/icon/facebook.png" ></a>&nbsp;&nbsp;
+									<a href="#"><img src="img/icon/twitter.png" ></a>&nbsp;&nbsp;
+									<a href="#"><img src="img/icon/google-plus.png" ></a>
 								</div>
 						 		</div>
 						 	</div>

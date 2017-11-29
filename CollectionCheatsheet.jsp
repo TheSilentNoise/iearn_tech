@@ -9,17 +9,12 @@
     <meta name="description" content="Free Bootstrap Theme by BootstrapMade.com">
     <meta name="keywords" content="free website templates, free bootstrap themes, free template, free bootstrap, free website template">
     
-    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans|Candal|Alegreya+Sans">
+    <link rel="stylesheet" type="text/css" href="css/font.css">
     <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="css/imagehover.min.css">
     <link rel="stylesheet" type="text/css" href="css/style.css">
-    <!-- =======================================================
-        Theme Name: Mentor
-        Theme URL: https://bootstrapmade.com/mentor-free-education-bootstrap-theme/
-        Author: BootstrapMade.com
-        Author URL: https://bootstrapmade.com
-    ======================================================= -->
+   
   </head>
   <body>
   
@@ -36,38 +31,38 @@
 		      
 							   <div class ="col-sm-12">
 								 
-											 <div class="col-sm-8">
+								<div class="col-sm-8">
 										
 										<div class="col-sm-12">
 												<h4>Collection Framework Architechture</h4>
-												<img src="img/collection-architecture.jpg" >
+												<img src="img/collection-architecture.jpg" class="img-responsive" >
 												<br/><br/>
 										</div>
 										
 										<div class="col-sm-12">	
 												<h4>Collection Framework Flow</h4>
-												<img src="img/collection-flow.jpg" >
+												<img src="img/collection-flow.jpg" class="img-responsive" >
 												<br/><br/>
 										</div>
 										
 										<div class="col-sm-12">		
 												<h4>Collection Methods</h4>
-												<img src="img/collection-methods.jpg" >
+												<img src="img/collection-methods.jpg" class="img-responsive">
 												<br/><br/>
 										</div>	
 										
 										<div class="col-sm-12">
 												<h4>Comparison between different Collections</h4>
-												<img src="img/collection-comparison.jpg" >
+												<img src="img/collection-comparison.jpg" class="img-responsive">
 												<br/><br/>
 										</div>	
 										
 										<div class="col-sm-12">
 												<h4>Comparing different Maps</h4>
-										        <img src="img/collection-maps.jpg" >
+										        <img src="img/collection-maps.jpg" class="img-responsive">
 												<br/><br/>
 										</div>		
-											 </div>
+								</div>
 											 
 											 
 											 <div class="col-sm-4">

@@ -5,7 +5,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>lEarn.Tech</title>
+    <title>Blogs | lEarn.Tech</title>
     <meta name="description" content="Free Bootstrap Theme by BootstrapMade.com">
     <meta name="keywords" content="free website templates, free bootstrap themes, free template, free bootstrap, free website template">
     
@@ -63,8 +63,8 @@
 											<div class="portfolio-desc align-center">
 												<div class="folio-info">
 												 <div class="inner blog-border">
-					                                   <a href="CollectionCheatsheet.jsp"> <h4>Java Collection Framework Cheat Sheet</h4>
-					                                        <span class="inline-block mb16">November 12, 2017</span></a>
+					                                   <a href="CollectionCheatsheet.jsp"> <h4>Java Collection Framework Cheat Sheet</h4></a>
+					                                        <i>Posted</i>&nbsp;&nbsp;<span class="inline-block mb16">November 12, 2017</span> 
 					                                    <hr>
 					                                    <p>
 					                                    	The Java Collections Framework is a collection of interfaces and classes which helps in storing and processing the data efficiently...;
@@ -130,7 +130,7 @@
 		        
 		   </div>
 	   </section>
-		<p align="right"><iframe width="350" height="430" src="https://console.dialogflow.com/api-client/demo/embedded/09e9e86b-d7bc-41ee-99f1-acddf9e2f177"></iframe></p>
+	   
 	    <div>
 		<%@include file="footer.jsp" %>
 	</div>

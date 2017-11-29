@@ -29,9 +29,9 @@
 	   <div class="col-sm-3">
 			<nav class="nav-sidebar">
 				<ul class="nav tabs">
-					<li class="active"><a href="tab1" data-toggle="tab">Item 1</a></li>
-					<li class=""><a href="tab2" data-toggle="tab">Item 2</a></li>
-					<li class=""><a href="tab3" data-toggle="tab">Item 3</a></li>
+					<li class="active"><a href="#tab1" data-toggle="tab">Item 1</a></li>
+					<li class=""><a href="#tab2" data-toggle="tab">Item 2</a></li>
+					<li class=""><a href="#tab3" data-toggle="tab">Item 3</a></li>
 
 				</ul>
 			</nav>
@@ -47,10 +47,7 @@
 	<script src="js/jquery.easing.min.js"></script>
 	<script src="js/bootstrap.min.js"></script>
 	<script src="js/custom.js"></script>
-	<script src="https://www.w3schools.com/lib/w3.js"></script>
-	<script>
-	w3.includeHTML();
-	</script>
+	
 
 </body>
 </html>

@@ -5,7 +5,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>TheSilentNoise</title>
+    <title>Home | lEarn.Tech</title>
     <meta name="description" content="Free Bootstrap Theme by BootstrapMade.com">
     <meta name="keywords" content="free website templates, free bootstrap themes, free template, free bootstrap, free website template">
     
@@ -71,7 +71,7 @@
           </div>
           <br/><br/><br/>
           <div class="feature-info">
-            <div class="col-md-4 col-sm-6 padleft-right">
+            <div class="col-sm-2">
             <figure class="border">
               <img src="img/home/interactive-live-training.png" class="img-responsive"><br/>
               <p><h4>Interactive Live Training</h4></p>
@@ -80,7 +80,7 @@
          </div>
            
             <div class="feature-info">
-            <div class="col-md-4 col-sm-6 padleft-right">
+            <div class="col-sm-2">
             <figure class="border">
               <img src="img/home/24-learning-platform.png" class="img-responsive"><br/>
               <p><h4>24x7 Learning Platform</h4></p>
@@ -89,7 +89,7 @@
          </div>
          
           <div class="feature-info">
-            <div class="col-md-4 col-sm-6 padleft-right">
+            <div class="col-sm-2">
             <figure class="border">
               <img src="img/home/live-project.png" class="img-responsive"><br/>
               <p><h4>Live Industry Projects</h4></p>
@@ -98,7 +98,7 @@
          </div>
          
          <div class="feature-info">
-            <div class="col-md-4 col-sm-6 padleft-right">
+            <div class="col-sm-2">
             <figure class="border">
               <img src="img/home/latest-course-curriculum.png" class="img-responsive"><br/>
               <h4>Latest Course Curriculum</h4>
@@ -107,7 +107,7 @@
          </div>
          
          <div class="feature-info">
-            <div class="col-md-4 col-sm-6 padleft-right">
+            <div class="col-sm-2">
             <figure class="border">
               <img src="img/home/trainers-across-globe.png" class="img-responsive"><br/>
               <p><h4>Trainers across globe</h4></p>
@@ -116,7 +116,7 @@
          </div>
          
          <div class="feature-info">
-            <div class="col-md-4 col-sm-6 padleft-right">
+            <div class="col-sm-2">
             <figure class="border">
               <img src="img/home/hands-on-experience.png" class="img-responsive"><br/>
               <p><h4>Hands on Experience</h4></p>
@@ -362,7 +362,7 @@
               <h4 class="text-center">Subscribe to stay updated about the latest news letters and upcoming courses.</h4><br/>
              <div class="cta-2-form text-center">
               <form action="#" method="post" id="workshop-newsletter-form">
-                    <input name="" placeholder="Enter Your Email Address" type="email">
+                    <input name="" placeholder="Enter Your Email Address" type="email" >
                     <input class="cta-2-form-submit-btn" value="Subscribe" type="submit">
                 </form>
              </div>   
