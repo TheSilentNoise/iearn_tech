@@ -20,6 +20,15 @@
   </head>
   <body>
   
+  <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.11&appId=1400195850017479';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  
 	 <div>
 		<%@include file="header.jsp" %>
 	 </div>
@@ -70,6 +79,7 @@
 					                                    	The Java Collections Framework is a collection of interfaces and classes which helps in storing and processing the data efficiently...;
 					                                    </p>
 					                                    <button class="btn btn-success" onclick="window.open('CollectionCheatsheet.jsp')">Read More &rarr;</button>
+					                                    <div class="fb-like" data-href="http://www.iearn.tech/all-blog.jsp" data-layout="standard" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
 					                                <br/><br/>
 					                                </div>
 												</div>
