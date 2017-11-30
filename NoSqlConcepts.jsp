@@ -14,14 +14,21 @@
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="css/imagehover.min.css">
     <link rel="stylesheet" type="text/css" href="css/style.css">
-    <!-- =======================================================
-        Theme Name: Mentor
-        Theme URL: https://bootstrapmade.com/mentor-free-education-bootstrap-theme/
-        Author: BootstrapMade.com
-        Author URL: https://bootstrapmade.com
-    ======================================================= -->
+    
+    
+  
   </head>
   <body>
+  <div id="fb-root"></div>
+		<script>
+		(function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = 'https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.11&appId=1400195850017479';
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+		</script>
   
 	 <div>
 		<%@include file="header.jsp" %>
@@ -211,18 +218,27 @@
 <p style="text-align: justify;">Often, organizations will begin with a small-scale trial of a NoSQL database in their organization, which makes it possible to develop an understanding of the technology in a low-stakes way. Most NoSQL databases are also open-source, meaning that they can be downloaded, implemented and scaled at little cost. Because development cycles are faster, organizations can also innovate more quickly and deliver superior customer experience at a lower cost.</p>
 <p style="text-align: justify;">As you consider alternatives to legacy infrastructures, you may have several motivations: to scale or perform beyond the capabilities of your existing system, identify viable alternatives to expensive proprietary software, or increase the speed and agility of development.</p>
 <p style="text-align: justify;">&nbsp;</p>
-											 </div>
+		
+		
+	
+    <div class="fb-like" data-href="http://www.iearn.tech/NoSqlConcepts.jsp" data-layout="standard" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
+    &nbsp;&nbsp;&nbsp;
+    <div class="pull-right">
+     <script src="//platform.linkedin.com/in.js" type="text/javascript"> lang: en_US</script>
+   <script type="IN/Share" data-url="http://www.iearn.tech/NoSqlConcepts.jsp" data-counter="right"></script><br/><br/>
+    </div>
+   
+    <div class="fb-comments" data-href="http://www.iearn.tech/NoSqlConcepts.jsp" data-numposts="5"></div>									
+											
+</div>
 											 
-											 
-											 <div class="col-sm-4">
-												  <div>
-													<%@include file="blogpanel.jsp" %>
-												 </div>
-											 </div>
-								 </div>
-	 </div>
-		   
-     </section>
+   
+											
+</div>
+</div>
+	 
+    
+</section>
 	 
 	 
     
