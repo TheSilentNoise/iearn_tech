@@ -7,13 +7,13 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand">I<span>Earn.Tech</span></a>
+        <a class="navbar-brand" style="padding: 0px 0px 0px 29px;">I<span>Earn.Tech</span></a>
         </div>
-        <div class="collapse navbar-collapse" id="myNavbar">
+        <div class="collapse navbar-collapse" style="padding: 0px 29px 0px 0px;">
         <ul class="nav navbar-nav navbar-right">
           <li><a href="index.jsp">Home</a></li>
           <li><a href="course.jsp">Courses</a></li>
-          <li><a href="all-blog.jsp">Blogs</a></li>
+          <li><a href="blog.jsp">Blogs</a></li>
           <!--  <li class="dropdown">
 						<a  class="dropdown-toggle" data-toggle="dropdown">Blogs <b class="caret"></b></a>
 						<ul class="dropdown-menu">

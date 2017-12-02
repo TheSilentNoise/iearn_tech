@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Home | lEarn.Tech</title>
-    <meta name="description" content="Free Bootstrap Theme by BootstrapMade.com">
+    <meta name="description" content="Learn Today...Earn Tomorrow">
     <meta name="keywords" content="free website templates, free bootstrap themes, free template, free bootstrap, free website template">
     
     <link rel="stylesheet" type="text/css" href="css/font.css">
@@ -18,20 +18,22 @@
   	<link rel="stylesheet" type="text/css" href="css/slick/slick.css">
   	<link rel="stylesheet" type="text/css" href="css/slick/slick-theme.css">
   	<link rel="stylesheet" type="text/css" href="css/custom.css">
-<!--Start of Tawk.to Script-->
-<script type="text/javascript">
-	var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
-	(function() {
-		var s1 = document.createElement("script"), s0 = document
-				.getElementsByTagName("script")[0];
-		s1.async = true;
-		s1.src = 'https://embed.tawk.to/5a1cfe73198bd56b8c03db78/default';
-		s1.charset = 'UTF-8';
-		s1.setAttribute('crossorigin', '*');
-		s0.parentNode.insertBefore(s1, s0);
-	})();
-</script>
-<!--End of Tawk.to Script-->
+  	
+		<!--Start of Tawk.to Script-->
+		<script type="text/javascript">
+			var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
+			(function() {
+				var s1 = document.createElement("script"), s0 = document
+						.getElementsByTagName("script")[0];
+				s1.async = true;
+				s1.src = 'https://embed.tawk.to/5a1cfe73198bd56b8c03db78/default';
+				s1.charset = 'UTF-8';
+				s1.setAttribute('crossorigin', '*');
+				s0.parentNode.insertBefore(s1, s0);
+			})();
+		</script>
+		
+      <!--End of Tawk.to Script-->
 
 </head>
   <body>
@@ -61,76 +63,12 @@
       </div>
     </div>
     <!--/ Banner-->
-    <!--Feature-->
-    <section id ="feature" class="section-padding">
-      <div class="container">
-        <div class="row">
-          <div class="header-section text-center">
-            <h2 class="header-border">What we provide</h2>
-             <hr class="bottom-line">
-          </div>
-          <br/><br/><br/>
-          <div class="feature-info">
-            <div class="col-sm-2">
-            <figure class="border">
-              <img src="img/home/interactive-live-training.png" class="img-responsive"><br/>
-              <p><h4>Interactive Live Training</h4></p>
-            </figure>
-          </div>
-         </div>
-           
-            <div class="feature-info">
-            <div class="col-sm-2">
-            <figure class="border">
-              <img src="img/home/24-learning-platform.png" class="img-responsive"><br/>
-              <p><h4>24x7 Learning Platform</h4></p>
-            </figure>
-          </div>
-         </div>
-         
-          <div class="feature-info">
-            <div class="col-sm-2">
-            <figure class="border">
-              <img src="img/home/live-project.png" class="img-responsive"><br/>
-              <p><h4>Live Industry Projects</h4></p>
-            </figure>
-          </div>
-         </div>
-         
-         <div class="feature-info">
-            <div class="col-sm-2">
-            <figure class="border">
-              <img src="img/home/latest-course-curriculum.png" class="img-responsive"><br/>
-              <h4>Latest Course Curriculum</h4>
-            </figure>
-          </div>
-         </div>
-         
-         <div class="feature-info">
-            <div class="col-sm-2">
-            <figure class="border">
-              <img src="img/home/trainers-across-globe.png" class="img-responsive"><br/>
-              <p><h4>Trainers across globe</h4></p>
-            </figure>
-          </div>
-         </div>
-         
-         <div class="feature-info">
-            <div class="col-sm-2">
-            <figure class="border">
-              <img src="img/home/hands-on-experience.png" class="img-responsive"><br/>
-              <p><h4>Hands on Experience</h4></p>
-            </figure>
-          </div>
-         </div>
-        </div>
-        </div>
-   
-    </section>
-    <!--/ feature-->
     
     
-    <!--subjects-->
+    
+       
+    
+    <!--Start Learning-->
     <section id ="subjects" class="section-padding">
       <div class="container">
         <div class="row">
@@ -228,10 +166,14 @@
       </div>
      
     </section>
-    <!--/ subjects-->
+    <!--/ Start Learning-->
+    
+    
+    
+    
     
   
-   
+   <!--Upcoming Courses  -->
   <section id ="testimonial" class="section-padding">
       <div class="container">
         <div class="row">
@@ -281,9 +223,13 @@
         </div>
    
     </section>
-    <!--/ feature-->
+    <!--/ Upcoming Courses-->
     
-
+    
+    
+    
+    
+<!-- Latest Blog Posts -->
 <section id ="feature" class="section-padding">
       <div class="container">
         <div class="row">
@@ -350,10 +296,83 @@
         </div>
    
     </section>
-    <!--/ feature-->
+    <!--/ Latest Blog Posts-->
+    
+    
+    
+    
+    
+     <!--What we provide-->
+    <section id ="feature" class="section-padding">
+      <div class="container">
+        <div class="row">
+          <div class="header-section text-center">
+            <h2 class="header-border">What we provide</h2>
+             <hr class="bottom-line">
+          </div>
+          <br/><br/><br/>
+          <div class="feature-info">
+            <div class="col-sm-2">
+            <figure class="border">
+              <img src="img/home/interactive-live-training.png" class="img-responsive"><br/>
+              <p><h5>Interactive Live Training</h5></p>
+            </figure>
+          </div>
+         </div>
+           
+            <div class="feature-info">
+            <div class="col-sm-2">
+            <figure class="border">
+              <img src="img/home/24-learning-platform.png" class="img-responsive"><br/>
+              <p><h5>24x7 Learning Platform</h5></p>
+            </figure>
+          </div>
+         </div>
+         
+          <div class="feature-info">
+            <div class="col-sm-2">
+            <figure class="border">
+              <img src="img/home/live-project.png" class="img-responsive"><br/>
+              <p><h5>Live Industry Projects</h5></p>
+            </figure>
+          </div>
+         </div>
+         
+         <div class="feature-info">
+            <div class="col-sm-2">
+            <figure class="border">
+              <img src="img/home/latest-course-curriculum.png" class="img-responsive"><br/>
+              <h5>Latest Course Curriculum</h5>
+            </figure>
+          </div>
+         </div>
+         
+         <div class="feature-info">
+            <div class="col-sm-2">
+            <figure class="border">
+              <img src="img/home/trainers-across-globe.png" class="img-responsive"><br/>
+              <p><h5>Trainers across globe</h5></p>
+            </figure>
+          </div>
+         </div>
+         
+         <div class="feature-info">
+            <div class="col-sm-2">
+            <figure class="border">
+              <img src="img/home/hands-on-experience.png" class="img-responsive"><br/>
+              <p><h5>Hands on Experience</h5></p>
+            </figure>
+          </div>
+         </div>
+        </div>
+        </div>
+   
+    </section>
+    <!--/ What we provide-->
+    
 
 
- <!--Cta-->
+ <!--Subscribe-->
     <section id="cta-2">
       <div class="container">
         <div class="row">
@@ -370,8 +389,11 @@
         </div>
       </div>
     </section>
-    <!--/ Cta-->    
+    <!--/ Subscribe-->    
 	   
+    
+    
+    
     
 	<div>
 		<%@include file="footer.jsp" %>

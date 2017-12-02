@@ -15,6 +15,8 @@ body {
     background: #f9fafb url(background.png) !important;
     background-position: 0 0 !important;
     background-repeat: repeat !important;
+    height: 100%;
+    overflow-x: hidden;
 }
 ol, ul {
 	/* list-style: none; */
@@ -558,9 +560,9 @@ Contact Us
 Footer
 ************************************/
 .footer {
-    padding: 0px 0 2px;
-    background: #111;
-    color: #ccc;
+    padding: 10px;
+    background: rgba(73, 76, 73, 0.3);
+    color: black;
 }
 .footer a {
     color: #fff;
@@ -582,7 +584,7 @@ Footer
     height: 48px;
 }
 .footer .social-links li a {
-    color: #fff;
+    color: black;
     font-size: 32px;
     line-height: 50px;
     border-radius: 50%;
@@ -604,7 +606,7 @@ Footer
     padding: 0;
     margin: 18px 0 10px;
     padding: 0px 0 0;
-    border-bottom: 1px solid rgba(255,255,255,0.2);
+    border-bottom: 1px solid rgba(140, 138, 138, 0.77);
 }
 .btn-submit:hover, .btn-submit:focus{
     background-color: #5fcf80;

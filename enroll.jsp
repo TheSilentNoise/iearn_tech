@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Enroll | lEarn.Tech</title>
-    <meta name="description" content="Free Bootstrap Theme by BootstrapMade.com">
+    <meta name="description" content="Learn Today...Earn Tomorrow">
     <meta name="keywords" content="free website templates, free bootstrap themes, free template, free bootstrap, free website template">
     
     <link rel="stylesheet" type="text/css" href="css/font.css">

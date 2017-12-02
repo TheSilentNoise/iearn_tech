@@ -5,8 +5,8 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>lEarn.Tech</title>
-    <meta name="description" content="Free Bootstrap Theme by BootstrapMade.com">
+    <title>Blogs | lEarn.Tech</title>
+    <meta name="description" content="Learn Today.....Earn Tomorrow">
     <meta name="keywords" content="free website templates, free bootstrap themes, free template, free bootstrap, free website template">
     
     <link rel="stylesheet" type="text/css" href="css/font.css">
@@ -15,249 +15,137 @@
     <link rel="stylesheet" type="text/css" href="css/imagehover.min.css">
     <link rel="stylesheet" type="text/css" href="css/isotope.css" media="screen" />
     <link rel="stylesheet" type="text/css" href="css/style.css">
-     <link rel="stylesheet" type="text/css" href="css/slick/style.css">
-     <link rel="stylesheet" type="text/css" href="css/custom.css">
+    <link rel="stylesheet" type="text/css" href="css/custom.css">
     
   </head>
-  <body>
+  <body data-ng-app="blogApp">
   
-	<body>
-	<!-- Fixed navbar -->
-	
-		<header id="head" class="secondary">
-            <div class="container">
-                    <h1>Online Videos</h1>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing eliras scele!</p>
-                </div>
-    </header>
-
-
-	<!-- container -->
-	<section class="container">
-		<div class="row">
-			<div class="col-md-12">
-				<section id="portfolio" class="page-section section appear clearfix">
-					<br />
-					<br />
-					<p>
-						At lorem Ipsum available, but the majority have suffered alteration in some form by injected huffered altehe majority have suffered alteration in some form by injected huffered alteration in some form by injected humour.uffered alteration in some form by injected h
-					<br />
-						<br />
-					</p>
-
-
-					<div class="row">
-						<nav id="filter" class="col-md-12 text-center">
-							<ul>
-								<li><a href="#" class="current btn-theme btn-small" data-filter="*">All</a></li>
-								<li><a href="#" class="btn-theme btn-small" data-filter=".java">java</a></li>
-								<li><a href="#" class="btn-theme btn-small" data-filter=".photography">Designing</a></li>
-								<li><a href="#" class="btn-theme btn-small" data-filter=".print">Tools</a></li>
+	 <div>
+		<%@include file="header.jsp" %>
+	 </div>
+	 
+	  <section  class="section-padding">
+		 <div class="container">
+		        <div class ="col-sm-12">
+		             <div class="header-section text-center">
+				          	<h2 class="page-heading">Blogs</h2>
+				    </div>
+		        	 <div class ="col-sm-3">
+			        	 <div class="blog-category"><br/>
+			        		<h3>Blog Categories</h3><hr/>
+			                <nav id="filter">
+							<ul class="nav">
+								<li class="active"><a href="#" class="current btn-theme btn-small" data-filter="*">All</a></li>
+								<li><a href="#" class="btn-theme btn-small" data-filter=".java">JAVA</a></li>
+								<li><a href="#" class="btn-theme btn-small" data-filter=".sql">SQL</a></li>
 							</ul>
 						</nav>
-						<div class="col-md-12">
+			            </div><br/>
+			             <div class="blog-category"><br/>
+			        		<h3>Popular posts</h3><hr/>
+			        		<ul>
+			        		<li><a href="#">Data Science</a></li>
+			                <li><a href="#">Machine Learning</a></li>
+			                <li><a href="#">Java</a></li>
+			                </ul>
+			        	 </div>
+			            
+		            </div>
+		            
+		            
+		        
+		         <div class="col-sm-9">
 							<div class="row">
 								<div class="portfolio-items isotopeWrapper clearfix" id="3">
 
-									<article class="col-sm-4 isotopeItem java">
-										<div class="portfolio-item">
-											<img src="assets/images/portfolio/img1.jpg" alt="" />
+									<article class="col-sm-12 isotopeItem java">
+										<div class="portfolio-item ">
 											<div class="portfolio-desc align-center">
 												<div class="folio-info">
-												 <div class="inner">
-					                                   <a href="CollectionCheatsheet.jsp"> <h4>Java Collection Framework Cheat Sheet</h4>
-					                                        <span class="inline-block mb16">November 12, 2017</span></a>
+												 <div class="inner blog-border">
+					                                   <a href="CollectionCheatsheet.jsp"> <h4>Java Collection Framework Cheat Sheet</h4></a>
+					                                        <i>Posted</i>&nbsp;&nbsp;<span class="inline-block mb16">November 12, 2017</span> 
 					                                    <hr>
 					                                    <p>
 					                                    	The Java Collections Framework is a collection of interfaces and classes which helps in storing and processing the data efficiently...;
 					                                    </p>
 					                                    <button class="btn btn-success" onclick="window.open('CollectionCheatsheet.jsp')">Read More &rarr;</button>
-					                                <br/><br/>
-					                                </div>
+					                            <br/><br/>
+					                            
+					                            </div>
 												</div>
 											</div>
 										</div>
 									</article>
 
-									<article class="col-sm-4 isotopeItem java">
+									<article class="col-sm-12 isotopeItem sql">
 										<div class="portfolio-item">
-											<img src="assets/images/portfolio/img2.jpg" alt="" />
 											<div class="portfolio-desc align-center">
-												<div class="inner">
-					                                   <a href="CollectionCheatsheet.jsp"> <h4>Java Collection Framework Cheat Sheet</h4>
-					                                        <span class="inline-block mb16">November 12, 2017</span></a>
+												 <div class="inner blog-border">
+					                                	<a href="NoSqlConcepts.jsp"><h4>Few Concepts on NoSql </h4>
+					                                        <span class="inline-block mb16">November 11, 2017</span>
+					                                    </a>
 					                                    <hr>
 					                                    <p>
-					                                    	The Java Collections Framework is a collection of interfaces and classes which helps in storing and processing the data efficiently...;
+					                                    	NoSQL encompasses a wide variety of different database technologies that were developed in response to the demands presented in building modern applications &#8230;
 					                                    </p>
-					                                    <button class="btn btn-success" onclick="window.open('CollectionCheatsheet.jsp')">Read More &rarr;</button>
-					                                <br/><br/>
-					                                </div>
+					                                    <button class="btn btn-success"  onclick="window.open('NoSqlConcepts.jsp')">Read More &rarr;</button>
+					                                 <br/><br/>
+					                               </div>
 											</div>
 										</div>
 									</article>
 
 
-									<article class="col-sm-4 isotopeItem photography">
+									<article class="col-sm-12 isotopeItem java">
 										<div class="portfolio-item">
-											<img src="assets/images/portfolio/img3.jpg" alt="" />
 											<div class="portfolio-desc align-center">
-												<div class="inner">
-					                                   <a href="CollectionCheatsheet.jsp"> <h4>Java Collection Framework Cheat Sheet</h4>
-					                                        <span class="inline-block mb16">November 12, 2017</span></a>
-					                                    <hr>
-					                                    <p>
-					                                    	The Java Collections Framework is a collection of interfaces and classes which helps in storing and processing the data efficiently...;
-					                                    </p>
-					                                    <button class="btn btn-success" onclick="window.open('CollectionCheatsheet.jsp')">Read More &rarr;</button>
-					                                <br/><br/>
-					                                </div>
+												 <div class="inner blog-border">
+				                                       <a href="apache-common-chain.jsp"> <h4>Use of Apache Common Chains</h4>
+				                                        <span class="inline-block mb16">November 12, 2017</span></a>
+				                                    <hr>
+				                                    <p>
+				                                    	A popular technique for organizing the execution of complex processing flows is the "Chain of Responsibility" pattern, as described in the classic "Gang of Four" design patterns extremely simple, it is useful to have a base API that facilitates using the pattern, and encouraging composition of command implementations from multiple diverse sources&#8230;
+				                                    </p>
+				                                    <button class="btn btn-success" onclick="window.open('apache-common-chain.jsp')">Read More &rarr;</button>
+				                                 <br/><br/>
+				                                </div>
 											</div>
 										</div>
 									</article>
 
-									<article class="col-sm-4 isotopeItem print">
-										<div class="portfolio-item">
-											<img src="assets/images/portfolio/img4.jpg" alt="" />
-											<div class="portfolio-desc align-center">
-												<div class="inner">
-					                                   <a href="CollectionCheatsheet.jsp"> <h4>Java Collection Framework Cheat Sheet</h4>
-					                                        <span class="inline-block mb16">November 12, 2017</span></a>
-					                                    <hr>
-					                                    <p>
-					                                    	The Java Collections Framework is a collection of interfaces and classes which helps in storing and processing the data efficiently...;
-					                                    </p>
-					                                    <button class="btn btn-success" onclick="window.open('CollectionCheatsheet.jsp')">Read More &rarr;</button>
-					                                <br/><br/>
-					                                </div>
-											</div>
-										</div>
-									</article>
-
-									<article class="col-sm-4 isotopeItem photography">
-										<div class="portfolio-item">
-											<img src="assets/images/portfolio/img5.jpg" alt="" />
-											<div class="portfolio-desc align-center">
-												<div class="inner">
-					                                   <a href="CollectionCheatsheet.jsp"> <h4>Java Collection Framework Cheat Sheet</h4>
-					                                        <span class="inline-block mb16">November 12, 2017</span></a>
-					                                    <hr>
-					                                    <p>
-					                                    	The Java Collections Framework is a collection of interfaces and classes which helps in storing and processing the data efficiently...;
-					                                    </p>
-					                                    <button class="btn btn-success" onclick="window.open('CollectionCheatsheet.jsp')">Read More &rarr;</button>
-					                                <br/><br/>
-					                                </div>
-											</div>
-										</div>
-									</article>
-
-									<article class="col-sm-4 isotopeItem webdesign">
-										<div class="portfolio-item">
-											<img src="assets/images/portfolio/img6.jpg" alt="" />
-											<div class="portfolio-desc align-center">
-												<div class="inner">
-					                                   <a href="CollectionCheatsheet.jsp"> <h4>Java Collection Framework Cheat Sheet</h4>
-					                                        <span class="inline-block mb16">November 12, 2017</span></a>
-					                                    <hr>
-					                                    <p>
-					                                    	The Java Collections Framework is a collection of interfaces and classes which helps in storing and processing the data efficiently...;
-					                                    </p>
-					                                    <button class="btn btn-success" onclick="window.open('CollectionCheatsheet.jsp')">Read More &rarr;</button>
-					                                <br/><br/>
-					                                </div>
-											</div>
-										</div>
-									</article>
-
-									<article class="col-sm-4 isotopeItem print">
-										<div class="portfolio-item">
-											<img src="assets/images/portfolio/img7.jpg" alt="" />
-											<div class="portfolio-desc align-center">
-												<div class="inner">
-					                                   <a href="CollectionCheatsheet.jsp"> <h4>Java Collection Framework Cheat Sheet</h4>
-					                                        <span class="inline-block mb16">November 12, 2017</span></a>
-					                                    <hr>
-					                                    <p>
-					                                    	The Java Collections Framework is a collection of interfaces and classes which helps in storing and processing the data efficiently...;
-					                                    </p>
-					                                    <button class="btn btn-success" onclick="window.open('CollectionCheatsheet.jsp')">Read More &rarr;</button>
-					                                <br/><br/>
-					                                </div>
-											</div>
-										</div>
-									</article>
-
-									<article class="col-sm-4 isotopeItem photography">
-										<div class="portfolio-item">
-											<img src="assets/images/portfolio/img8.jpg" alt="" />
-											<div class="portfolio-desc align-center">
-												<div class="inner">
-					                                   <a href="CollectionCheatsheet.jsp"> <h4>Java Collection Framework Cheat Sheet</h4>
-					                                        <span class="inline-block mb16">November 12, 2017</span></a>
-					                                    <hr>
-					                                    <p>
-					                                    	The Java Collections Framework is a collection of interfaces and classes which helps in storing and processing the data efficiently...;
-					                                    </p>
-					                                    <button class="btn btn-success" onclick="window.open('CollectionCheatsheet.jsp')">Read More &rarr;</button>
-					                                <br/><br/>
-					                                </div>
-											</div>
-										</div>
-									</article>
-
-									<article class="col-sm-4 isotopeItem print">
-										<div class="portfolio-item">
-											<img src="assets/images/portfolio/img9.jpg" alt="" />
-											<div class="portfolio-desc align-center">
-												<div class="inner">
-					                                   <a href="CollectionCheatsheet.jsp"> <h4>Java Collection Framework Cheat Sheet</h4>
-					                                        <span class="inline-block mb16">November 12, 2017</span></a>
-					                                    <hr>
-					                                    <p>
-					                                    	The Java Collections Framework is a collection of interfaces and classes which helps in storing and processing the data efficiently...;
-					                                    </p>
-					                                    <button class="btn btn-success" onclick="window.open('CollectionCheatsheet.jsp')">Read More &rarr;</button>
-					                                <br/><br/>
-					                                </div>
-											</div>
-										</div>
-									</article>
+									
 								</div>
 
 							</div>
 
 
 						</div>
-					</div>
-
-				</section>
-			</div>
-		</div>
-
-	</section>
-	<!-- /container -->
- 
-
-	
-</body>
+		        
+		        
+		        </div>
+		 
+		  		
+								   
+		        
+		        
+		   </div>
+	   </section>
+	   
+	    <div>
+		<%@include file="footer.jsp" %>
+	</div>
    
    
-    <!-- <script src="js/jquery.min.js"></script>
+    <script src="js/jquery.min.js"></script>
     <script src="js/jquery.easing.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/angular.min.js" ></script>
      <script src="js/angular-route.min.js" ></script>
-    <script src =  "http://ajax.googleapis.com/ajax/libs/angularjs/1.0.3/angular-sanitize.js"></script>
     <script src="js/custom.js"></script>
-     <script src="js/student.js"></script>    -->  
-     
-     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-	<script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
-	<script src="js/jquery.cslider.js"></script>
 	<script src="js/jquery.isotope.min.js"></script>
 	<script src="js/jquery.fancybox.pack.js" type="text/javascript"></script>
-	<script src="js/custom2.js"></script>
+	<script src="js/all-blogs.js"></script>
 
 </body>
 </html>
