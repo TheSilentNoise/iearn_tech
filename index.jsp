@@ -35,6 +35,7 @@
 		
       <!--End of Tawk.to Script-->
 
+
 </head>
   <body>
   
@@ -237,72 +238,152 @@
             <h2 class="header-border">Latest Blog Posts</h2>
              <hr class="bottom-line">
           </div>
+        </div>
+        <div class='row'>
+    <div class='col-md-12'>
+      <div class="carousel slide media-carousel" id="media">
+        <div class="carousel-inner">
+          <div class="item  active">
+            <div class="row">
+              <div class="col-md-4">
+                <div class="blog-scroll blog-border">
+				   <h4 class="entry-title"><a href="">Top 5 Python Libraries for Data Visualization</a></h4>
+										<div class="entry-summary">
+											<p>Data visualization is a pictorial or graphical format of the presentation of data. 
+											This graphical representation helps  decision makers to see analytics presented visually. 
+											So, they can get difficult concepts [&hellip;]</p>
+										</div>   
+				</div>
+              </div>  
+                      
+              <div class="col-md-4">
+                <div class="blog-scroll blog-border">
+				   <h4 class="entry-title"><a href="">Top 5 Python Libraries for Data Visualization</a></h4>
+										<div class="entry-summary">
+											<p>Data visualization is a pictorial or graphical format of the presentation of data. 
+											This graphical representation helps  decision makers to see analytics presented visually. 
+											So, they can get difficult concepts [&hellip;]</p>
+										</div>   
+				</div>
+              </div> 
+              
+             <div class="col-md-4">
+                <div class="blog-scroll blog-border">
+				   <h4 class="entry-title"><a href="">Top 5 Python Libraries for Data Visualization</a></h4>
+										<div class="entry-summary">
+											<p>Data visualization is a pictorial or graphical format of the presentation of data. 
+											This graphical representation helps  decision makers to see analytics presented visually. 
+											So, they can get difficult concepts [&hellip;]</p>
+										</div>   
+				</div>
+              </div> 
+              
+            </div>
+          </div>
+          <div class="item">
+            <div class="row">
+             <div class="col-md-4">
+                <div class="blog-scroll blog-border">
+				   <h4 class="entry-title"><a href="">Top 5 Python Libraries for Data Visualization</a></h4>
+										<div class="entry-summary">
+											<p>Data visualization is a pictorial or graphical format of the presentation of data. 
+											This graphical representation helps  decision makers to see analytics presented visually. 
+											So, they can get difficult concepts [&hellip;]</p>
+										</div>   
+				</div>
+              </div>
+              
+                       
+             <div class="col-md-4">
+                <div class="blog-scroll blog-border">
+				   <h4 class="entry-title"><a href="">Top 5 Python Libraries for Data Visualization</a></h4>
+										<div class="entry-summary">
+											<p>Data visualization is a pictorial or graphical format of the presentation of data. 
+											This graphical representation helps  decision makers to see analytics presented visually. 
+											So, they can get difficult concepts [&hellip;]</p>
+										</div>   
+				</div>
+              </div>
+              <div class="col-md-4">
+                <div class="blog-scroll blog-border">
+				   <h4 class="entry-title"><a href="">Top 5 Python Libraries for Data Visualization</a></h4>
+										<div class="entry-summary">
+											<p>Data visualization is a pictorial or graphical format of the presentation of data. 
+											This graphical representation helps  decision makers to see analytics presented visually. 
+											So, they can get difficult concepts [&hellip;]</p>
+										</div>   
+				</div>
+              </div>       
+            </div>
+          </div>
           
-          <div class="regular slider">
-			   <div class="blog-scroll blog-border">
-				   <h4 class="entry-title"><a href="">Top 5 Python Libraries for Data Visualization</a></h4>
-										<div class="entry-summary">
-											<p>Data visualization is a pictorial or graphical format of the presentation of data. 
-											This graphical representation helps  decision makers to see analytics presented visually. 
-											So, they can get difficult concepts [&hellip;]</p>
-										</div>   
-				</div>
-					    
-				<div class="blog-scroll blog-border">
-				   <h4 class="entry-title"><a href="">Top 5 Python Libraries for Data Visualization</a></h4>
-										<div class="entry-summary">
-											<p>Data visualization is a pictorial or graphical format of the presentation of data. 
-											This graphical representation helps  decision makers to see analytics presented visually. 
-											So, they can get difficult concepts [&hellip;]</p>
-										</div>   
-				</div>
-			    
-			    <div class="blog-scroll blog-border">
-				  <h4 class="entry-title"><a href="">Top 5 Python Libraries for Data Visualization</a></h4>
-										<div class="entry-summary">
-											<p>Data visualization is a pictorial or graphical format of the presentation of data. 
-											This graphical representation helps  decision makers to see analytics presented visually. 
-											So, they can get difficult concepts [&hellip;]</p>
-										</div>    
-				</div>
-				 <div class="blog-scroll blog-border">
-				  <h4 class="entry-title"><a href="">Top 5 Python Libraries for Data Visualization</a></h4>
-										<div class="entry-summary">
-											<p>Data visualization is a pictorial or graphical format of the presentation of data. 
-											This graphical representation helps  decision makers to see analytics presented visually. 
-											So, they can get difficult concepts [&hellip;]</p>
-										</div>    
-				</div>
-				 <div class="blog-scroll blog-border">
-				  <h4 class="entry-title"><a href="">Top 5 Python Libraries for Data Visualization</a></h4>
-										<div class="entry-summary">
-											<p>Data visualization is a pictorial or graphical format of the presentation of data. 
-											This graphical representation helps  decision makers to see analytics presented visually. 
-											So, they can get difficult concepts [&hellip;]</p>
-										</div>    
-				</div>
-				
-			     <div class="blog-scroll blog-border">
-				  <h4 class="entry-title"><a href="">Top 5 Python Libraries for Data Visualization</a></h4>
-										<div class="entry-summary">
-											<p>Data visualization is a pictorial or graphical format of the presentation of data. 
-											This graphical representation helps  decision makers to see analytics presented visually. 
-											So, they can get difficult concepts [&hellip;]</p>
-										</div>    
-				</div>
-				
-				</div>
         </div>
+        <a data-slide="prev" href="#media" class="left carousel-control">Prev</a>
+        <a data-slide="next" href="#media" class="right carousel-control">Next</a>
+      </div>                          
+    </div>
+  </div>
         </div>
+        
+        <div class="text-center">
+      		<button type="button" class="btn btn-success" onclick="window.location.href='blog.jsp'">View All Blogs</button>
+      </div>
    
     </section>
     <!--/ Latest Blog Posts-->
-    
-    
-    
-    
-    
-     <!--What we provide-->
+
+
+
+	<!-- <section id ="feature" class="section-padding">
+      <div class="container">
+        <div class="row">
+          <div class="header-section text-center">
+            <h2 class="header-border">Upcoming Events</h2>
+             <hr class="bottom-line">
+          </div>
+        </div>
+        <div class='row'>
+		    <div class='col-md-12'>
+					<div id="myCarousel" class="carousel carousels" data-ride="carousel">
+				
+						<ol class="carousel-indicators">
+							<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+							<li data-target="#myCarousel" data-slide-to="1"></li>
+							<li data-target="#myCarousel" data-slide-to="2"></li>
+						</ol>
+		
+						<div class="carousel-inner">
+							<div class="item items active"></div>
+		
+							<div class="item items"></div>
+		
+							<div class="item items"></div>
+						</div>
+		
+						
+						<a class="left carousel-control" href="#myCarousel" data-slide="prev"> 
+									<span class="glyphicon glyphicon-chevron-left"></span> 
+									<span class="sr-only">Previous</span>
+						</a> 
+							
+						<a class="right carousel-control" href="#myCarousel" data-slide="next"> 
+									<span class="glyphicon glyphicon-chevron-right"></span> 
+									<span class="sr-only">Next</span>
+						</a>
+					</div>
+				</div> 
+		</div>
+		</div>
+		
+		
+
+	</section>
+
+ -->
+
+
+
+	<!--What we provide-->
     <section id ="feature" class="section-padding">
       <div class="container">
         <div class="row">
@@ -315,8 +396,8 @@
             <div class="col-sm-2">
             <figure class="border">
               <img src="img/home/interactive-live-training.png" class="img-responsive"><br/>
-              <p><h5>Interactive Live Training</h5></p>
             </figure>
+            <p><h5 class="text-center">Interactive Live Training</h5></p>
           </div>
          </div>
            
@@ -324,8 +405,8 @@
             <div class="col-sm-2">
             <figure class="border">
               <img src="img/home/24-learning-platform.png" class="img-responsive"><br/>
-              <p><h5>24x7 Learning Platform</h5></p>
             </figure>
+             <p><h5 class="text-center">24x7 Learning Platform</h5></p>
           </div>
          </div>
          
@@ -333,8 +414,8 @@
             <div class="col-sm-2">
             <figure class="border">
               <img src="img/home/live-project.png" class="img-responsive"><br/>
-              <p><h5>Live Industry Projects</h5></p>
             </figure>
+             <p><h5 class="text-center">Live Industry Projects</h5></p>
           </div>
          </div>
          
@@ -342,8 +423,8 @@
             <div class="col-sm-2">
             <figure class="border">
               <img src="img/home/latest-course-curriculum.png" class="img-responsive"><br/>
-              <h5>Latest Course Curriculum</h5>
             </figure>
+             <p><h5 class="text-center">Latest Course Curriculum</h5></p>
           </div>
          </div>
          
@@ -351,8 +432,8 @@
             <div class="col-sm-2">
             <figure class="border">
               <img src="img/home/trainers-across-globe.png" class="img-responsive"><br/>
-              <p><h5>Trainers across globe</h5></p>
             </figure>
+             <p><h5 class="text-center">Trainers across globe</h5></p>
           </div>
          </div>
          
@@ -360,13 +441,13 @@
             <div class="col-sm-2">
             <figure class="border">
               <img src="img/home/hands-on-experience.png" class="img-responsive"><br/>
-              <p><h5>Hands on Experience</h5></p>
             </figure>
+             <p><h5 class="text-center">Hands on Experience</h5></p>
           </div>
          </div>
         </div>
         </div>
-   
+   <br/><br/><br/>
     </section>
     <!--/ What we provide-->
     

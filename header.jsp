@@ -7,27 +7,13 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand" style="padding: 0px 0px 0px 29px;">I<span>Earn.Tech</span></a>
+        <a class="navbar-brand">I<span>Earn.Tech</span></a>
         </div>
-        <div class="collapse navbar-collapse" style="padding: 0px 29px 0px 0px;">
+        <div class="collapse navbar-collapse" id="myNavbar">
         <ul class="nav navbar-nav navbar-right">
           <li><a href="index.jsp">Home</a></li>
           <li><a href="course.jsp">Courses</a></li>
           <li><a href="blog.jsp">Blogs</a></li>
-          <!--  <li class="dropdown">
-						<a  class="dropdown-toggle" data-toggle="dropdown">Blogs <b class="caret"></b></a>
-						<ul class="dropdown-menu">
-							<li><a href="blog.jsp">All Blogs</a></li>
-							<li><a href="sql.html">SQL</a></li>
-							<li><a href="#">UNIX</a></li>
-							<li><a href="java.jsp">JAVA</a></li>
-							<li><a href="hadoop.html">Big Data & Hadoop</a></li>
-							<li><a href="#">Data Warehouse</a></li>
-							<li><a href="#">Talend</a></li>
-							<li><a href="#">Machine Learning</a></li>
-							<li><a href="#">Python</a></li>
-						</ul>
-		  </li> -->
 		  <li><a href="contact.jsp">Contact</a></li>
           <li><a href="#" data-target="#login" data-toggle="modal">Sign in</a></li>
           <li class="btn-trial"><a href="enroll.jsp">Enroll Now</a></li>

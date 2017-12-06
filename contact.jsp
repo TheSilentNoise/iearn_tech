@@ -34,25 +34,25 @@
 						 <div class="row">
 						 	<div class="col-md-4">
 						 		<div class="boxed-content">
-						 			<h2 class="section-title"><i class="fa fa-envelope-o"></i>&nbsp;&nbsp;Email</h2>
-						 			<p><strong>Office:</strong> <a href="mailto:office@companyname.com">office@companyname.com</a></p>
+						 			<h2 class="section-title">Email</h2>
+						 			<p><a href="#"><img src="img/icon/email.png" ></a> office@companyname.com</p>
 						 		</div>
 						 	</div>
 						 	<div class="col-md-4">
 						 		<div class="boxed-content">
-						 			<h2 class="section-title"><i class="fa fa-phone"></i>&nbsp;&nbsp;Telephone</h2>
-						 			<p><strong>Office:</strong> +1 800 321 431</p>
+						 			<h2 class="section-title">Telephone</h2>
+						 			<p><a href="#"><img src="img/icon/telephone.png" ></a> +1 800 321 431</p>
 						 		</div>
 						 	</div>
 						 	<div class="col-md-4">
 						 		<div class="boxed-content">
-						 			<h2 class="section-title"><i class="fa fa-globe"></i>&nbsp;&nbsp;Social Media</h2>
-						 			<div class="social-links">
+						 			<h2 class="section-title">Social Media</h2>
+						 			<p>
 									<a href="#"><img src="img/icon/linkedin.png" ></a>&nbsp;&nbsp;
 									<a href="#"><img src="img/icon/facebook.png" ></a>&nbsp;&nbsp;
 									<a href="#"><img src="img/icon/twitter.png" ></a>&nbsp;&nbsp;
 									<a href="#"><img src="img/icon/google-plus.png" ></a>
-								</div>
+								   </p>
 						 		</div>
 						 	</div>
 						 	

@@ -14,7 +14,7 @@
 
 #navbarstudent {
 	padding: 20px 14px 0px 5px;
-	background: #c3fbca;
+	background: white;
 	box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
 }
 
@@ -48,11 +48,8 @@
 }
 
 .border {
-	/* padding: 15px 0px 1px 65px;
-	border: ridge;
-	border-color: #494a4afc;
-	*/
-	padding: 0px 45px 0px 45px;
+	padding: 15px 45px 10px 45px;
+    border: ridge;
 }
 
 .border-ridge {
@@ -79,6 +76,8 @@
 .header-border {
 	background: #77de95;
 	padding: 5px 0px 5px 0px;
+	border-radius: 5px;
+	box-shadow: inset -13px 7px 28px 0px rgba(154, 214, 151, 0.57);
 }
 
 .subject-div {
@@ -124,3 +123,61 @@
         -ms-transform: scale(1.3);
         transform: scale(1.3);
 }
+
+/* carousel */
+.media-carousel 
+{
+  margin-bottom: 0;
+  padding: 0 40px 30px 40px;
+  margin-top: 30px;
+}
+/* Previous button  */
+.media-carousel .carousel-control.left 
+{
+  padding: 78px 0px 0px 0px;
+    left: -12px;
+    background-image: none;
+    /* background: none repeat scroll 0 0 #222222; */
+    border: 0px solid #FFFFFF;
+    /* border-radius: 13px 16px 23px 23px; */
+    height: 40px;
+    width: 29px;
+    margin-top: 30px;
+    color: black;
+}
+/* Next button  */
+.media-carousel .carousel-control.right 
+{
+ padding: 78px 0px 0px 0px;
+    right: -12px !important;
+    background-image: none;
+    /* background: none repeat scroll 0 0 #222222; */
+    border: 0px solid #FFFFFF;
+    border-radius: 23px 23px 23px 23px;
+    height: 40px;
+    width: 40px;
+    margin-top: 30px;
+    color: black;
+}
+/* Changes the position of the indicators */
+.media-carousel .carousel-indicators 
+{
+  right: 50%;
+  top: auto;
+  bottom: 0px;
+  margin-right: -19px;
+}
+/* Changes the colour of the indicators */
+.media-carousel .carousel-indicators li 
+{
+  background: #c0c0c0;
+}
+.media-carousel .carousel-indicators .active 
+{
+  background: #333333;
+}
+.carousels .items {
+    height: 300px;
+     background-color: #ada9a9; 
+}
+/* End carousel */

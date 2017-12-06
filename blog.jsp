@@ -12,8 +12,6 @@
     <link rel="stylesheet" type="text/css" href="css/font.css">
     <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href="css/imagehover.min.css">
-    <link rel="stylesheet" type="text/css" href="css/isotope.css" media="screen" />
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <link rel="stylesheet" type="text/css" href="css/custom.css">
     
@@ -49,30 +47,22 @@
 			                <li><a href="#">Java</a></li>
 			                </ul>
 			        	 </div>
-			            
+			            <br/>
 		            </div>
-		            
-		            
-		        
 		         <div class="col-sm-9">
 							<ng-view>
 							</ng-view>
 
 				 </div>
 		        
-		        
 		        </div>
-		 
-		  		
-								   
-		        
 		        
 		   </div>
 	   </section>
 	   
 	    <div>
 		<%@include file="footer.jsp" %>
-	</div>
+	    </div>
    
    
     <script src="js/jquery.min.js"></script>
@@ -81,9 +71,7 @@
     <script src="js/angular.min.js" ></script>
      <script src="js/angular-route.min.js" ></script>
     <script src="js/custom.js"></script>
-	<script src="js/jquery.isotope.min.js"></script>
-	<script src="js/jquery.fancybox.pack.js" type="text/javascript"></script>
-	<script src="js/all-blogs.js"></script>
+	<script src="js/blogs.js"></script>
 
 </body>
 </html>
