@@ -12,6 +12,10 @@ app.config(function($routeProvider) {
     .when("/de", {
         templateUrl : "de.jsp"
     })
+    .when("/mycourses", {
+        templateUrl : "mycourses.jsp",
+        controller: "mycourses"	
+    })
     .when("/java", {
         templateUrl : "java.jsp"
     });
@@ -23,7 +27,24 @@ app.controller("commonPage", function($scope){
 	$scope.chooseHtmlElement = $scope.content[0].content;
 	$scope.showSection = function(index){
 		$scope.id = index;
+	//	console.log($scope.content[index].content);
+		$scope.chooseHtmlElement = $scope.content[index].content;
+	};
+	
+	//$scope.chooseHtmlElement= function (index) {
 		
+		
+	//};
+	
+});
+
+
+app.controller("mycourses", function($scope){
+	$scope.content = index;
+	$scope.id = 0;
+	$scope.chooseHtmlElement = $scope.content[0].content;
+	$scope.showSection = function(index){
+		$scope.id = index;
 	//	console.log($scope.content[index].content);
 		$scope.chooseHtmlElement = $scope.content[index].content;
 	};
