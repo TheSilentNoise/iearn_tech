@@ -24,11 +24,11 @@
 	 
 	  <section  class="section-padding">
 		 <div class="container">
-		        <div class ="col-sm-12">
+		        <div class ="col-md-12">
 		             <div class="header-section text-center">
 				          	<h2 class="page-heading">Blogs</h2>
 				    </div>
-		        	 <div class ="col-sm-3">
+		        	 <div class ="col-md-3">
 			        	 <div class="blog-category"><br/>
 			        		<h4>Blog Categories</h4><hr/>
 			                <nav id="filter">
@@ -49,10 +49,11 @@
 			        	 </div>
 			            <br/>
 		            </div>
-		         <div class="col-sm-9">
+		         <div class="col-md-9">
+		         		<div class="col-md-12">
 							<ng-view>
 							</ng-view>
-
+						</div>
 				 </div>
 		        
 		        </div>

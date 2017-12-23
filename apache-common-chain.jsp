@@ -1,5 +1,5 @@
 
-<div class="col-sm-12">
+<div class="col-md-12">
 
 	<h2 class="header-section text-center">Apache Commons Chains</h2>
 	<hr class="bottom-line">

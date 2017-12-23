@@ -97,7 +97,7 @@
               
               <div class="col-xs-12 text-right">
                 <!-- Button -->
-                <button type="submit" id="submit" name="submit" class="form contact-form-button light-form-button oswald light">SEND EMAIL</button>
+                <button type="submit" id="submit" name="submit" class="btn btn-success">SEND EMAIL</button>
               </div>
           </form>
           

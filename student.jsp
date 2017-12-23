@@ -33,9 +33,22 @@
         </div>
         <div class="collapse navbar-collapse" id="myNavbar">
         <ul class="nav navbar-nav navbar-right">
-          <li><a href="course.jsp">Courses</a></li>
-          <li><a href="blog.jsp">Blogs</a></li>
-		  <li><a href="contact.jsp">Co</a></li>
+          <li class="dropdown">
+						<a class="dropdown-toggle" data-toggle="dropdown">Courses<b class="caret"></b></a>
+						<ul class="dropdown-menu">
+							<li><a href="#/mycourses">My Courses</a></li>
+							<li><a href="course.jsp">All Courses</a></li>
+						</ul>
+		 </li>
+          <li class="dropdown">
+						<a class="dropdown-toggle" data-toggle="dropdown">Username <b class="caret"></b></a>
+						<ul class="dropdown-menu">
+							<li><a href="#/de">My Profile</a></li>
+							<li><a href="#">Update Password</a></li>
+							<li><a href="#">Submit Feedback</a></li>
+							<li><a href="#">Logout</a></li>
+						</ul>
+					</li>
 
         </ul>
         </div>
@@ -48,10 +61,14 @@
 				 <div class="container">
 				 
 				  <div class="header-section text-center">
-            			<h2 class="page-heading">Welcome to Home</h2>
+            			<h2 class="page-heading">Welcome to Student Portal</h2>
        			  </div>
+       			  
+       			   <div class="col-sm-12">
+							<div data-ng-view></div>
+					</div>
 				 
-				 	<div class="col-sm-2" id="navbarstudent">
+				 	<!-- <div class="col-sm-2" id="navbarstudent">
 				 				<nav>
 		   							 <ul class="nav">
 		   							    
@@ -75,7 +92,7 @@
 			    
 					 <div class="col-sm-10">
 							<div data-ng-view></div>
-					 </div>
+					 </div> -->
 				 </div>
 			</section>
 	 </div>
@@ -92,6 +109,7 @@
     <script src="js/angular.min.js" ></script>
      <script src="js/angular-route.min.js" ></script>
     <script src =  "js/angular-sanitize.js"></script>
+      <script src="js/static.js"></script>
      <script src="js/student.js"></script>
     
     
