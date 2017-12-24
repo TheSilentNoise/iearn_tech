@@ -1485,7 +1485,7 @@ hr {
 }
 
 .h3, h3 {
-	font-size: 24px
+	font-size: 26px
 }
 
 .h4, h4 {
@@ -3472,8 +3472,8 @@ a.btn.disabled, fieldset[disabled] a.btn {
 
 .btn-success {
 	color: #fff;
-	background-color: #2e1b90;
-	border-color: #2e1b90
+	background-color: #0b487194;
+	border-color: #0b487194
 }
 
 .btn-success.focus, .btn-success:focus {

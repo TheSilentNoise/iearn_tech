@@ -134,9 +134,9 @@ Banner
     color: #fff;
 }
 .text-border{
-	border: 5px solid #f2f4f7;
-	display: inline-block;
-	margin-top: 150px;
+	border: 5px solid #6f9fcb;
+    display: inline-block;
+    margin-top: 150px;
 }
 .intro-para{
 	font-family: 'Alegreya Sans', sans-serif;
@@ -221,18 +221,20 @@ Banner
     padding: 0px 60px 30px 60px;
 }
 .big-text{
-    font-size: 35px;
+    font-size: 45px;
 }
 .small-text{
     font-size: 16px;
 }
 .quote .btn{
-    background-color: #2e1b90;
+   background-color: #3d7fabc2;
     color: #fff;
     -webkit-transition: all 0.3s ease-in-out;
-  -moz-transition: all 0.3s ease-in-out;
-  transition: all 0.3s ease-in-out;
-  margin-top: 10px;
+    -moz-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    margin-top: 49px;
+    border: 1px solid white;
+    font-size: 20px;
 }
 .quote .btn:hover, .quote .btn:focus{
     background-color: #fff;
@@ -353,7 +355,7 @@ Cta
     min-width: 310px;
     margin-left: -4px;
     margin-bottom: 2px;
-    border: 1px solid #2e1b90;
+    border: 1px solid #0b487194;
     background-color: rgb(247, 247, 247);
     border-radius: 30px 0px 0px 30px;
 }
@@ -361,9 +363,9 @@ Cta
     font-size: 18px;
     text-transform: capitalize;
     color: #fff;
-    background-color: #2e1b90;
+    background-color: #0b487194;
     border: 2px solid #fff;
-    padding: 10px 30px;
+    padding: 11px 30px;
     margin-left: -4px;
     transition: all 0.3s;
     -moz-transition: all 0.3s;
@@ -491,7 +493,7 @@ Price Table
     padding: 20px 0px;
     font-weight: bold !important;
     font-size: 14px;
-    background-color: #2e1b90;
+    background-color: #0b487194;
 }
 /***********************************
 Contact Us
@@ -678,7 +680,7 @@ Footer
   transition: all 0.3s ease-in-out;
 }
 .btn-green, .btn-green:hover{
-    background-color: #2e1b90;
+    background-color: #0b487194;
     color: #fff;
 }
 .footer .form-control:focus{
