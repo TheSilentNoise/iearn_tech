@@ -1,4 +1,26 @@
 
+<article class="col-sm-12 isotopeItem java">
+	<div class="portfolio-item">
+		<div class="portfolio-desc align-center">
+			<div class="inner blog-border">
+				<a href="#/miscellaneous/api-concepts">
+					<h4>API Concepts</h4>
+					</a> <i>Posted</i>&nbsp;&nbsp; <span class="inline-block mb16">December
+						22, 2017</span>
+				</a>
+				<hr>
+				<p>API is the acronym for Application Programming Interface,
+					which is a software intermediary that allows two applications to
+					talk to each other. Each time you use an app like Facebook, send an
+					instant message, or check the weather on your phone, you're using
+					an API.&#8230;</p>
+				<a class="btn btn-success" href="#/miscellaneous/api-concepts">Read
+					More&rarr;</a> <br /> <br />
+			</div>
+		</div>
+	</div>
+</article>
+
 
 <article class="col-sm-12 isotopeItem java">
 	<div class="portfolio-item ">
@@ -15,8 +37,7 @@
 						efficiently...;</p>
 					<a class="btn btn-success"
 						href="#/java/collection-framework-cheatsheet">Read More &rarr;</a>
-					<br />
-					<br />
+					<br /> <br />
 
 				</div>
 			</div>
@@ -31,14 +52,13 @@
 		<div class="portfolio-desc align-center">
 			<div class="inner blog-border">
 				<a href="#/sql/nosql-concepts"><h4>Few Concepts on NoSql</h4> <span
-					class="inline-block mb16">November 11, 2017</span> </a>
+					class="inline-block mb16"></a> <i>Posted</i>&nbsp;&nbsp;November 11, 2017</span> </a>
 				<hr>
 				<p>NoSQL encompasses a wide variety of different database
 					technologies that were developed in response to the demands
 					presented in building modern applications &#8230;</p>
 				<a class="btn btn-success" href="#/sql/nosql-concepts">Read More
-					&rarr;</a> <br />
-				<br />
+					&rarr;</a> <br /> <br />
 			</div>
 		</div>
 	</div>
@@ -50,8 +70,8 @@
 		<div class="portfolio-desc align-center">
 			<div class="inner blog-border">
 				<a href="#/java/apache-common-chain">
-					<h4>Use of Apache Common Chains</h4> <span
-					class="inline-block mb16">November 12, 2017</span>
+					<h4>Use of Apache Common Chains</h4> 
+					</a> <i>Posted</i>&nbsp;&nbsp;<span class="inline-block mb16">November 12, 2017</span>
 				</a>
 				<hr>
 				<p>A popular technique for organizing the execution of complex
@@ -60,10 +80,17 @@
 					simple, it is useful to have a base API that facilitates using the
 					pattern, and encouraging composition of command implementations
 					from multiple diverse sources&#8230;</p>
-				<a class="btn btn-success" href="#/java/apache-common-chain">Read More&rarr;</a> <br />
-				<br />
+				<a class="btn btn-success" href="#/java/apache-common-chain">Read
+					More&rarr;</a> <br /> <br />
 			</div>
 		</div>
 	</div>
 </article>
+
+
+
+
+
+
+
 

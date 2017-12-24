@@ -4,6 +4,18 @@
 		<div class="text-center">
 				<img src="img/sql.png" >
 	    </div>
+	    
+	    
+	     <div class="col-sm-3 index">
+	   <div class="text-center"><label>Index</label></div><hr/>
+			<nav class="nav-sidebar">
+				<ul class="nav tabs">
+					<li data-ng-repeat="x in content track by $index">
+					   <a href="tab{{$index}}" data-ng-click="showSection($index)" data-toggle="tab">{{x.header}}</a>
+					</li>
+				</ul>
+			</nav>
+		</div> 
 		
 
 		<div class="col-sm-9">
@@ -17,16 +29,7 @@
 
 		</div>
 
-	   <div class="col-sm-3 index">
-	   <div class="text-center"><label>Index</label></div><hr/>
-			<nav class="nav-sidebar">
-				<ul class="nav tabs">
-					<li data-ng-repeat="x in content track by $index">
-					   <a href="tab{{$index}}" data-ng-click="showSection($index)" data-toggle="tab">{{x.header}}</a>
-					</li>
-				</ul>
-			</nav>
-		</div> 
+	  
 		
 	</section>
 

@@ -1,8 +1,9 @@
 
 <div class="col-md-12">
 
-	<h2 class="header-section text-center">Apache Commons Chains</h2>
-	<hr class="bottom-line">
+	<h2 class="text-center blog-heading">Apache Commons Chains</h2>
+	
+	<br/>
 
 	<h4 style="text-align: justify;">Introduction to Apache Commons
 		Chains&nbsp;</h4>

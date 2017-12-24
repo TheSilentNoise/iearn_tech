@@ -36,6 +36,7 @@
 								<li class="active"><a href="#/" >All</a></li>
 								<li><a href="#/java" >JAVA</a></li>
 								<li><a href="#/sql" >SQL</a></li>
+								<li><a href="#/miscellaneous" >Miscellaneous</a></li>
 							</ul>
 						</nav>
 			            </div><br/>
