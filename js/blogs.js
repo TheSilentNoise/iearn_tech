@@ -11,6 +11,13 @@ app.config(function($routeProvider) {
     .when("/sql", {
         templateUrl : "sql-blog.jsp"
     })
+     .when("/miscellaneous", {
+        templateUrl : "miscellaneous-blog.jsp"
+    })
+    
+    
+    
+    
     .when("/java/collection-framework-cheatsheet", {
         templateUrl : "CollectionCheatsheet.jsp"
     })
@@ -20,6 +27,10 @@ app.config(function($routeProvider) {
     
     .when("/java/apache-common-chain", {
         templateUrl : "apache-common-chain.jsp"
+    })
+    
+    .when("/miscellaneous/api-concepts", {
+        templateUrl : "api-concepts.jsp"
     })
     
 });
