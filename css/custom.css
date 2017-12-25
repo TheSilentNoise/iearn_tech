@@ -8,7 +8,7 @@
 }
 
 .page-heading {
-	background: #0b487194;
+	background: rgba(51, 122, 183, 0.46);
 	padding: 10px 0px 10px 0px;
 	color: white
 }
@@ -75,7 +75,7 @@
 }
 
 .header-border {
-	background: #0b487194;
+	background: rgba(51, 122, 183, 0.46);
 	padding: 8px 0px 8px 0px;
 	border-radius: 5px;
 	color: white;
@@ -175,7 +175,7 @@
 
 .carousels .items {
 	height: 400px;
-	background-color: #6e91aa66;
+	background-color: rgba(51, 122, 183, 0.31);
 }
 /* End carousel */
 
