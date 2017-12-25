@@ -7,8 +7,8 @@
 
 <div class="col-md-12" style="overflow-x: auto">
 	<div class="row"><h4>Course Schedule</h4><hr/></div>
-	<table class="table table-striped" style="border: 1px solid #0b487194;">
-    <thead style="background:#0b487194;color:white">
+	<table class="table table-striped" style="border: 1px solid rgba(51, 122, 183, 0.46);">
+    <thead style="background:rgba(51, 122, 183, 0.46);color:white">
       <tr>
         <th>Date</th>
         <th>Time</th>

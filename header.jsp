@@ -7,9 +7,9 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand">I<span>Earn.Tech</span></a>
+        <a class="navbar-brand" style="padding: 1px 1px 0px 20px;">I<span>Earn.Tech</span></a>
         </div>
-        <div class="collapse navbar-collapse" id="myNavbar">
+        <div class="collapse navbar-collapse" id="myNavbar" style="padding: 0px 27px 0px 0px;">
         <ul class="nav navbar-nav navbar-right">
           <li><a href="index.jsp">Home</a></li>
           <li><a href="course.jsp">Courses</a></li>
